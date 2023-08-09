@@ -1,2 +1,2 @@
 # theertha_portifolio
-Analytics portifolio
+machine learning portifolio
